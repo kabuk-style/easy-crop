@@ -1,0 +1,5 @@
+{
+  "name": "Image Cropping Tool",
+  "description": "An online tool to crop an uploaded image into two fixed dimensions (1055x967 and 2048x880) and export them as WebP files.",
+  "requestFramePermissions": []
+}
